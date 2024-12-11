@@ -65,7 +65,7 @@ name=name + ' ➟ ' + rootName;
 }
 
     $done({
-      title:group=𝓟𝓻𝓸𝔁𝔂,
+      title:group,
       content:name,
       icon: 'pc',
 		'icon-color': '#CC99CC'
