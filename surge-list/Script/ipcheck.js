@@ -14,8 +14,8 @@ groupPanel = script-name=groupPanel,update-interval=5
 ;(async () => {
   // 固定参数
   const group = "𝓟𝓻𝓸𝔁𝔂"; // 策略组名称
-  const icon = "network"; // 图标
-  const color = "#86abee"; // 图标颜色
+  const icon = "pc"; // 图标
+  const color = "#CC99CC"; // 图标颜色
 
   try {
     let proxy = await httpAPI("/v1/policy_groups");
