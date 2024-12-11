@@ -67,8 +67,8 @@ name=name + ' ➟ ' + rootName;
     $done({
       title:group,
       content:name,
-      icon: params.icon,
-		"icon-color":params.color
+      icon: 'pc',
+		'icon-color': '#CC99CC'
     });
 })();
 
