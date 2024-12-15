@@ -13,7 +13,7 @@ groupPanel = script-name=groupPanel,update-interval=5
 
 ;(async () => {
   // 固定参数
-  const group = "𝓟𝓻𝓸𝔁𝔂"; // 策略组名称
+  const group = "𝓟𝓡𝓞𝓧𝓨"; // 策略组名称
   const icon = "pc"; // 图标
   const color = "#cc99cc"; // 图标颜色
 
